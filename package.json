@@ -1,7 +1,7 @@
 {
   "name": "photo_reaction",
   "version": "0.1.0",
-  "homepage": "https://damiansebastians.github.io/photo_reaction",
+  "homepage": "https:/damiansebastians.github.io/photo_reaction",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
