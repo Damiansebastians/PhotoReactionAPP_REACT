@@ -22,7 +22,7 @@ export default function NavBar() {
                         boxShadow: '1px 1px 20px 36px #ffffff',
                         zIndex: '99' }}>
 
-                    <a href="/home">
+                    <a href="/">
                         <img src={Logo} alt="logo" style={{
                             width: '50px',
                             margin: '0px 15px 0px' }} />
