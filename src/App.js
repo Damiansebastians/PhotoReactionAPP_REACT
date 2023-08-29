@@ -14,6 +14,7 @@ function App() {
       <NavBar />
       <Home />
       <Routes>
+        <Route path="/" element={<PhotoList />} />
         <Route path="/home" element={<PhotoList />} />
         <Route path="/favorite" element={<FavoriteList />} />
       </Routes>
