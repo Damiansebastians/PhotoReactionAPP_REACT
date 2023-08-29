@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/photoreaction/static/css/main.93a0497a.css",
-    "main.js": "/photoreaction/static/js/main.d174c994.js",
-    "static/js/787.7d3e7e4c.chunk.js": "/photoreaction/static/js/787.7d3e7e4c.chunk.js",
-    "static/media/backphotos.jpeg": "/photoreaction/static/media/backphotos.3729b269af6e97d88a30.jpeg",
-    "static/media/logoo.jpg": "/photoreaction/static/media/logoo.3c245f7103fea0b835bb.jpg",
-    "index.html": "/photoreaction/index.html",
-    "main.93a0497a.css.map": "/photoreaction/static/css/main.93a0497a.css.map",
-    "main.d174c994.js.map": "/photoreaction/static/js/main.d174c994.js.map",
-    "787.7d3e7e4c.chunk.js.map": "/photoreaction/static/js/787.7d3e7e4c.chunk.js.map"
+    "main.css": "/PhotoReactionAPP_REACT/static/css/main.93a0497a.css",
+    "main.js": "/PhotoReactionAPP_REACT/static/js/main.2e36dea9.js",
+    "static/js/787.7d3e7e4c.chunk.js": "/PhotoReactionAPP_REACT/static/js/787.7d3e7e4c.chunk.js",
+    "static/media/backphotos.jpeg": "/PhotoReactionAPP_REACT/static/media/backphotos.3729b269af6e97d88a30.jpeg",
+    "static/media/logoo.jpg": "/PhotoReactionAPP_REACT/static/media/logoo.3c245f7103fea0b835bb.jpg",
+    "index.html": "/PhotoReactionAPP_REACT/index.html",
+    "main.93a0497a.css.map": "/PhotoReactionAPP_REACT/static/css/main.93a0497a.css.map",
+    "main.2e36dea9.js.map": "/PhotoReactionAPP_REACT/static/js/main.2e36dea9.js.map",
+    "787.7d3e7e4c.chunk.js.map": "/PhotoReactionAPP_REACT/static/js/787.7d3e7e4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93a0497a.css",
-    "static/js/main.d174c994.js"
+    "static/js/main.2e36dea9.js"
   ]
 }
